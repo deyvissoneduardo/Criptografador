@@ -1,0 +1,33 @@
+body {
+	background: rgba(0,0.1,0,.9);
+	color: springgreen;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+table {
+    margin-top: auto;
+    width: 100%;
+    background: rgba(255,255,255,.1);
+}
+h1 {
+	font-weight: bold;
+	font-size: 1.9rem;
+}
+td {
+	font-weight: bold;
+}
+input {
+    background: rgb(41, 5, 245);
+	color: rgba(0,0.1,0,.9);
+	border: 2px solid rgba(255,255,255,.1);
+	border-radius: 5%;
+	font-weight: bold;
+
+}
+textarea {	
+	color: rgba(0,0.1,0,.9); 	
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+textarea:focus {	
+   	border: 1px solid rgb(41, 5, 245);
+}
